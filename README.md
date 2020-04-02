@@ -1,15 +1,4 @@
-# Trustonic Code Test
 
-This code test is designed to allow you to demonstrate your development skills. Please can you carry out the following task and return the solution in the form of a single archive. The solution should include a readme file, source code, any additional support files as needed, and a short script to compile and run the application.
-
-## The objective
-
-To validate given devices detail via given certificates from remote url. For this task, springboot is used for scheduling. 
-RestTemplate is used for remote certification reads. 
-CVS file is used for input source (under resources). 
-Final results are logged to console.  
-
-## Dependencies
 
 ### Java
 
